@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **Web Development, Python**
 
 - 📫 How to reach me **sharmayashi270@gmail.com**
 
