@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashi Sharma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Aspiring Full stack web developer from India</h3>
 
 <span><img src="https://assets.holopin.io/hf2023levels/level1-blue-0-0-0.webp" width="150px"></span>
 <span><img src="https://assets.holopin.io/hf2023levels/level2-blue-0-0-0.webp" width="150px"></span>
